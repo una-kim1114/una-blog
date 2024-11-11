@@ -1,3 +1,3 @@
 # una-blog
 my blog
-![./images/20241111001.png](http://una-kim1114.github.io/blog/blob/main/images/20241111001.png)
+![이미지 설명](https://una-kim1114.github.io/una-blog/images/20241111001.png)
